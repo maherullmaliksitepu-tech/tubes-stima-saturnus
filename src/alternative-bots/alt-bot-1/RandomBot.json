@@ -1,0 +1,15 @@
+{
+  "name": "RandomBot",
+  "version": "1.0",
+  "authors": ["Irul"],
+  "description": "Bot bergerak dan menembak secara acak",
+  "homepage": "",
+  "countryCodes": ["ID"],
+  "platform": ".NET 6",
+  "programmingLang": "C#",
+  "initialPosition": {
+    "x": 200,
+    "y": 200,
+    "direction": 0
+  }
+}

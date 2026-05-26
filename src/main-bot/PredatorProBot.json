@@ -1,0 +1,10 @@
+{
+  "name": "PredatorProBot",
+  "version": "1.0",
+  "authors": ["Maherull"],
+  "description": "Bot agresif dan pintar",
+  "homepage": "",
+  "countryCodes": ["ID"],
+  "platform": ".NET 6.0",
+  "programmingLang": "C#"
+}

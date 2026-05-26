@@ -1,0 +1,4 @@
+C:\Users\Irul\OneDrive\Documents\TUBES_STIMA\src\alternative-bots\alt-bot-3\obj\Debug\net6.0\alt-bot-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irul\OneDrive\Documents\TUBES_STIMA\src\alternative-bots\alt-bot-3\obj\Debug\net6.0\alt-bot-3.AssemblyInfoInputs.cache
+C:\Users\Irul\OneDrive\Documents\TUBES_STIMA\src\alternative-bots\alt-bot-3\obj\Debug\net6.0\alt-bot-3.AssemblyInfo.cs
+C:\Users\Irul\OneDrive\Documents\TUBES_STIMA\src\alternative-bots\alt-bot-3\obj\Debug\net6.0\alt-bot-3.csproj.CoreCompileInputs.cache

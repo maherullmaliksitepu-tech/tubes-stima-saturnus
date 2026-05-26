@@ -1,0 +1,15 @@
+{
+  "name": "DefensiveBot",
+  "version": "1.0",
+  "authors": ["Irul"],
+  "description": "Bot defensif yang menjaga jarak dari musuh",
+  "homepage": "",
+  "countryCodes": ["ID"],
+  "platform": ".NET 6",
+  "programmingLang": "C#",
+  "initialPosition": {
+    "x": 600,
+    "y": 200,
+    "direction": 0
+  }
+}
