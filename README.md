@@ -6,7 +6,9 @@ Bot strategy game berbasis **C#** yang dirancang untuk memainkan permainan secar
 
 ## 👥 Anggota Kelompok
 
-- Maherull Malik Sitepu
+- Maherull Malik Sitepu(124140054)
+- Elsza Malinda(124140035)
+- Pariz Riswan(124140053)
 
 ---
 
