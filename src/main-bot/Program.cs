@@ -13,7 +13,7 @@ public class PredatorProBot : Bot
 
     public override void Run()
     {
-        // ✅ FIX DI SINI (hapus "Is")
+    
         AdjustGunForBodyTurn = true;
         AdjustRadarForGunTurn = true;
 
